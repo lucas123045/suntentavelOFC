@@ -17,9 +17,9 @@ Sistema Inteligente de Monitoramento Energético para Missão Espacial
 LINKS:
 ------
 Repositório GitHub:
-https://github.com/SEU_USUARIO/orion-energy-monitor
+https://github.com/lucas123045/suntentavelOFC
 
 Vídeo YouTube (não listado):
-https://youtu.be/SEU_VIDEO_ID
+https://youtu.be/zya_5cyO5sY
 
 ========================================
