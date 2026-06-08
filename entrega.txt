@@ -1,0 +1,25 @@
+========================================
+  GLOBAL SOLUTION 2026-1 — FIAP
+  Soluções em Energias Renováveis e Sustentáveis
+  Ciência da Computação — Turma 1CC
+========================================
+
+INTEGRANTES DO GRUPO:
+---------------------
+Lucas Klein — RM 570029
+Rafael ferreirinha - RM 571949
+
+PROJETO:
+--------
+ORION Energy Monitor AI
+Sistema Inteligente de Monitoramento Energético para Missão Espacial
+
+LINKS:
+------
+Repositório GitHub:
+https://github.com/SEU_USUARIO/orion-energy-monitor
+
+Vídeo YouTube (não listado):
+https://youtu.be/SEU_VIDEO_ID
+
+========================================
